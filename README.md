@@ -4,11 +4,11 @@ Darknet Neural Network Framework Plugin for GStreamer
 
 It loads darknet in runtime. It is not in final form and is not efficient, so I stopped working on it.
 
-Bug: Does not put rectangles on objects correctly.
-
-Steps:
+Bug: Does not put rectangles correctly on objects.
 
 Built with QtCreator
+
+Steps:
 
 Download Darknet, and YOLO weights (or etc.) from github.com/pjreddie/darknet.git
 
